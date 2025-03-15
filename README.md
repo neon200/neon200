@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neon200" alt="neon200" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **shashi342021@gmail.com**
 
@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neon200&show_icons=true&locale=en" alt="neon200" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neon200&" alt="neon200" /></p>
